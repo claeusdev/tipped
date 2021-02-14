@@ -1,5 +1,3 @@
-# ui-starter
+# Tipped
 
-Simple project starter for building simple UI components.
-
-A lot of work still to do!!!
+A very simple Tooltip component with vanilla JS and CSS
